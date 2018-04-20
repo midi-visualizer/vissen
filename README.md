@@ -5,7 +5,7 @@ The Vissen system is made up of many separate libraries. We will include a list 
 Library | Description
 ------- | -----------
 [Vissen Input](https://github.com/midi-visualizer/vissen-input)   | Defines the input format for the system. |
-[Vissen Output](https://github.com/midi-visualizer/vissen-output) | Defines the input format for the system. |
+[Vissen Output](https://github.com/midi-visualizer/vissen-output) | Defines the output format for the system. |
 
 ## Installation
 
