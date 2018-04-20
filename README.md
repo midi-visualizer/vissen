@@ -2,6 +2,12 @@
 
 The Vissen system is made up of many separate libraries. We will include a list of them along with a description of what each does as soon as they are ready.
 
++-----------------+------------------------------------------------------------+
+| [Vissen Input](https://github.com/midi-visualizer/vissen-input) | Defines the input format for the system. |
++-----------------+------------------------------------------------------------+
+| [Vissen Output](https://github.com/midi-visualizer/vissen-output) | Defines the input format for the system. |
++-----------------+------------------------------------------------------------+
+
 ## Installation
 
 Add this line to your application's Gemfile:
